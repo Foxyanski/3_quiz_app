@@ -25,6 +25,9 @@ watch(search, () => {
 </script>
 
 <style scoped>
+.container {
+  margin-left: 2rem;
+}
 header {
   margin-bottom: 10px;
   margin-top: 30px;
